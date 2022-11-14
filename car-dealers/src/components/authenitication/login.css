@@ -6,7 +6,6 @@ body {
     justify-content: center;
     display: flex;
     padding: 90px 0 90px 0;
-    background-color: #333;
     margin: 20px 0 20px 0;
     width: 100%;
 }
@@ -19,7 +18,6 @@ body {
     height: 550px;
     width: 40%;
     padding-top: 30px;
-    color: #ea4e3a;
     
     
 }
@@ -76,7 +74,6 @@ body {
 
 .main #create-acc {
 
-    color: #ea4e3a;
     text-align: center;
 
 }
@@ -107,6 +104,5 @@ body {
 .main #forgotpass a {
 
     text-align: right;
-    color: #ea4e3a;
     text-decoration: none;
 }

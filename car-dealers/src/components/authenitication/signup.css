@@ -6,7 +6,6 @@ body {
 }
 .signup {
     text-align: center;
-    color: #EA4E3A;
     font-size: 3rem;
 }
 .signup-body {
@@ -17,7 +16,6 @@ body {
     margin: 100px auto;
 }
 .create-account {
-    background-color: #EA4E3A;
     margin: 0 auto;
     display: block;
     padding: 10px 40px;
@@ -25,7 +23,4 @@ body {
 }
 .input-fields input {
     margin: 20px 0 20px 0;
-}
-#terms {
-    color: #EA4E3A;
 }
