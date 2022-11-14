@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://cdn.luxe.digital/media/20220121180909/most-expensive-cars-2022-list-luxe-digital-1200x600.jpg");
+    background-repeat: no-repeat;
+  background-size: 100%;
+}
+.main-wrapper ul {
+    display: flex;
+    list-style: none;
+    
+    
+}
+.main-wrapper{
+    float: right;
+
+}
+

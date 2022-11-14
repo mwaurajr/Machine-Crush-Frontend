@@ -2,7 +2,15 @@ import React from 'react'
 import "./HomePage.css"
 function HomePage() {
   return (
-    <div>HomePage</div>
+    <div className="main-wrapper">
+      <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Signup</li>
+        <li>Login</li>
+      </ul>
+
+    </div>
   )
 }
 
