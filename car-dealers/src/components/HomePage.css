@@ -6,11 +6,18 @@ body{
 .main-wrapper ul {
     display: flex;
     list-style: none;
-    
+    padding-left: 250px;
+    padding-top: 20px;
+
+
     
 }
 .main-wrapper{
     float: right;
+      
 
 }
-
+.main-wrapper ul li{
+    padding-right: 50px;
+    
+}

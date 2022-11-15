@@ -33,7 +33,7 @@ function App() {
           <Route exact path='/about'>
             <About/>
           </Route>
-          <Route exact path='Footer/'>
+          <Route exact path='Footer/' >
             <Footer />
           </Route>
         </Switch>
