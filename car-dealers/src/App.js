@@ -17,9 +17,6 @@ function App() {
       <BrowserRouter>
         <HomePage />
         <Switch>
-          <Route exact path='/wishlist'>
-            <wishlist />
-          </Route>
           <Route exact path='/appointment'>
             <Appointment />
           </Route>
