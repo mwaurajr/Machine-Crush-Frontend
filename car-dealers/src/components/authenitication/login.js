@@ -88,7 +88,7 @@ function Login() {
               <h4 id='newmbr'>
                 {' '}
                 New member?{' '}
-                <Link to='/signup' id='create-acc'>
+                <Link to='./signup' id='create-acc'>
                   {' '}
                   Create Account
                 </Link>
